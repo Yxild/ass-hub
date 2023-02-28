@@ -2,3 +2,4 @@ credits to;
 violin-suzutsuki (Making LinoriaLib)
 Wally-RBLX (Rewriting or something idk i forgot lol)
 
+I do respect the licence of Linoria Library, my script shouldn't conflick with Ass Hub when being made or used
